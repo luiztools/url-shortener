@@ -6,6 +6,8 @@ On order to run:
 - run npm install to install the dependencies;
 - run npm start or npm run dev to see in action;
 
+Para o tutorial completo (texto e vídeo), acesse https://www.luiztools.com.br/post/como-criar-um-encurtador-de-url-com-node-js-e-sequelize/
+
 Conheça meus livros https://www.luiztools.com.br/meus-livros
 
 Conheça meus cursos https://www.luiztools.com.br/meus-cursos
